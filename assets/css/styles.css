@@ -1,0 +1,183 @@
+body
+{
+
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 14px;
+  background-color:#ffff72;
+
+}
+
+
+h1
+{
+
+font-family: 'Georgia', Times, Times New Roman, serif;
+background-color: #29b6f6;
+float: left;
+margin-top: 0;
+padding: 30px;
+width: 30%;
+text-align: right;
+
+}
+
+a
+{
+
+color: black;
+
+}
+
+.top
+{
+
+background-color: #ffeb3b;
+float: right;
+margin : 18px;
+margin-top: 0;
+padding: 5px;
+box-shadow: 2px 2px;
+
+}
+
+nav
+{
+  
+  background-color: #73e8ff;
+  width:66%;
+  float: left;
+  padding: 5px;
+
+}
+
+section
+{
+
+padding: 5%;
+
+}
+
+.profile
+{
+
+float: left;
+width: 20%;
+
+}
+
+p
+{
+
+float: left;
+max-width: 50%;
+text-align: center;
+
+}
+
+footer
+{
+
+  background-color: #73e8ff;
+  width: 100%;
+  text-align:center;
+  padding: 20px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+}
+
+form
+{
+
+  
+  background-color: #73e8ff;
+  padding: 40px;
+  margin: 20px auto;
+  width: 40%;
+
+}
+
+h6
+{
+
+font-size: 18px;
+
+}
+
+input[type="text"] 
+{
+
+  width: 90%;
+
+}
+
+textarea 
+{
+
+  width: 90%;
+
+}
+
+.btn
+{
+
+  background-color: #ffeb3b;
+  color: #29b6f6;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 20px;
+  box-shadow: 2px 2px;
+
+}
+
+h2
+{
+
+background-color: #73e8ff;
+color: white;
+padding: 20px;
+width: 17%;
+
+}
+
+.imgContain
+{
+
+width: 30%;
+margin: 0 auto;
+
+
+}
+
+.container 
+{
+  position: relative;
+  text-align: center;
+  color: white;
+  width: 200px;
+  float: left;
+  margin: 20px;
+}
+
+.imgText
+{
+
+position: absolute;
+/* top: 150px;
+left: 40px; */
+margin: -30% 25%;
+background-color: #29b6f6;
+padding: 10px;
+
+}
+
+.clearfix
+{
+
+  content: "";
+  display: block;
+  clear: both;
+
+}
